@@ -55,4 +55,5 @@ ssl-ca=/home/dtulyakov/SSL/mysql/ca-cert.pem
 ssl-cert=/home/dtulyakov/SSL/mysql/client-client_01-cert.pem
 ssl-key=/home/dtulyakov/SSL/mysql/client-client_01-key.pem
 ```
+- Пример однго из серверов
 ![](img/ssl-mariadb.jpg)
